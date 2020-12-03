@@ -1,0 +1,8 @@
+{
+    "token": "your token UwU OwO",
+    "msgid": "",
+    "link": "https://adventofcode.com/2020/leaderboard/private/view/apiid.json",
+    "channelid": "your channel id :3",
+    "cookie": "your session cookie",
+    "ids": ["ALL THE USER IDS HERE CAUSE THE API DOESN'T HAVE AN ARRAY OF USERS IT HAS A MEMBER OBJECT WITH A BUNCH OF MEMBERS THAT YOU HAVE TO SELECT BY THEIR ID"]
+}
